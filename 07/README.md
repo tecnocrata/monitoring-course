@@ -1,6 +1,4 @@
-# Docker exporter example
-
-It is not working 😓
+# MySQL exporter example
 
 ```sh
 docker-compose up
